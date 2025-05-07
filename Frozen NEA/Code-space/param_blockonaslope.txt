@@ -1,0 +1,5 @@
+Angle: 30.0
+Gravity: 10.0
+Resistance: 2.0
+Mass: 100.0
+Distancetotravel: 300.0

@@ -1,0 +1,5 @@
+height: 100.0
+gravity: 10.0
+forwardvelocity: 25.0
+fallvelocity: 1.0
+airresistance: 2.0
